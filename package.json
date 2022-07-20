@@ -1,6 +1,6 @@
 {
+  	"author": "Joe <joe@whatever.com> (https://whatever.com)",
 	"name": "fcc-learn-npm-package-json",
-        "author": "Steven Chen",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
