@@ -1,5 +1,8 @@
 {
-  	"author": "Joe <joe@whatever.com> (https://whatever.com)",
+  	"author": {
+    		"name": "StevenChen",
+    		"url": "https://fire197893.github.io/boilerplate-npm/"
+  	},
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
